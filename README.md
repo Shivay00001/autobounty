@@ -54,3 +54,7 @@ pytest -q
 - TLS trust is evaluated against the local CA store; untrusted-but-present
   certificates are still reported with their real details (parsed via the
   openssl CLI, which must be installed).
+
+## Built by VisionQuantech
+
+Part of the [VisionQuantech](https://visionquantech.com/) AI automation studio. See [AI voice agents for business calls](https://visionquantech.com/ai-voice-agents) and the guide to [AI phone answering for veterinary clinics](https://visionquantech.com/blog/ai-phone-answering-service-for-veterinary-clinics).
